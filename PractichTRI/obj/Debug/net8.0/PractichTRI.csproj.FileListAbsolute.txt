@@ -1,0 +1,14 @@
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\bin\Debug\net8.0\PractichTRI.exe
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\bin\Debug\net8.0\PractichTRI.deps.json
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\bin\Debug\net8.0\PractichTRI.runtimeconfig.json
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\bin\Debug\net8.0\PractichTRI.dll
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\bin\Debug\net8.0\PractichTRI.pdb
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\obj\Debug\net8.0\PractichTRI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\obj\Debug\net8.0\PractichTRI.AssemblyInfoInputs.cache
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\obj\Debug\net8.0\PractichTRI.AssemblyInfo.cs
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\obj\Debug\net8.0\PractichTRI.csproj.CoreCompileInputs.cache
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\obj\Debug\net8.0\PractichTRI.dll
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\obj\Debug\net8.0\refint\PractichTRI.dll
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\obj\Debug\net8.0\PractichTRI.pdb
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\obj\Debug\net8.0\PractichTRI.genruntimeconfig.cache
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\PractichTRI\PractichTRI\obj\Debug\net8.0\ref\PractichTRI.dll
